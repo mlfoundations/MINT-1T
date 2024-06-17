@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/mint_logo.png" width=512px> MINT-1T
+  <img src="mint-logo.png" width=512px> MINT-1T
 </h1>
 
 
