@@ -1,1 +1,14 @@
-# MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens
+<h1 align="center">
+  <img src="assets/mint_logo.png" width=512px> MINT-1T
+</h1>
+
+
+
+## Updates
+- We released our [techinical report]()!
+
+## Citation
+
+If you found our work useful, please consider citing:
+```
+```
