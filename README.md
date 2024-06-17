@@ -3,7 +3,6 @@
 </h1>
 
 ## MINT-1T Dataset
-<img src="" width=50px>
 MINT-1T is an open-source **M**ultimodal **INT**erleaved dataset with one trillion text tokens and three billion images, a 10x scale-up from existing open-source datasets. Additionally, we include previously untapped sources such as PDFs and ArXiv papers. We are putting the final touches on MINT-1T and will open-source the dataset soon!
 
 ## Updates
