@@ -2,7 +2,7 @@
   <img src="assets/mint-logo.png" width=50px> MINT-1T:<br>Scaling Open-Source Multimodal Data by 10x:<br> A Multimodal Dataset with One Trillion Tokens
 </h1>
 
-[Paper](https://arxiv.org/abs/2406.11271) | [Dataset](https://huggingface.co/collections/mlfoundations/mint-1t-6690216ca4d0df7e518dde1c) | [Blog Post](https://blog.salesforceairesearch.com/mint-1t/)
+[Paper](https://arxiv.org/abs/2406.11271) | [Dataset](https://huggingface.co/collections/mlfoundations/mint-1t-6690216ca4d0df7e518dde1c) | [Blog Post](https://www.salesforce.com/blog/mint-1t/)
 
 ![Example Docs](assets/interleaved-example.png)
 
